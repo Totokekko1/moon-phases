@@ -2,13 +2,6 @@
 
 中学生向けの太陽・地球・月の位置関係を学ぶWebアプリです。
 
-## 公開方法
-1. GitHubで新しい公開リポジトリを作る（例: `moon-phases`）。
-2. `index.html` をリポジトリのルートにアップロードする。
-3. Settings → Pages → Build and deployment → Deploy from a branch を選択。
-4. Branchを `main`、フォルダを `/(root)` に設定して保存。
-5. 数分後、`https://<ユーザー名>.github.io/moon-phases/` で開く。
-
 ## 操作
 - 1本指ドラッグ / マウスドラッグ: 視点回転
 - 2本指ドラッグ: 視点移動・ピンチズーム
